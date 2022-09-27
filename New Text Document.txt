@@ -3,3 +3,5 @@
 react typescript jwt token
 
 https://www.youtube.com/watch?v=Icd-_K7KFrs&ab_channel=CodeWithVishal
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QD2BCikYCyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
