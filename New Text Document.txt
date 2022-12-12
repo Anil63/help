@@ -15,3 +15,7 @@ freenacer advice
 https://www.youtube.com/watch?v=XCHP-qtdLps&ab_channel=AmanDhattarwal  
 
 https://www.youtube.com/watch?v=luVJ8rARtuQ&ab_channel=LabourLawAdvisor
+
+
+login with socil icons
+https://github.com/cuongdevjs/reactjs-social-login/blob/master/example/src/App.tsx
