@@ -24,3 +24,5 @@ css animation
 https://levelup.gitconnected.com/12-best-css-animation-libraries-7d1b0848dfca
 
 https://codepen.io/kiritodeveloper/pen/gOKyxWa
+
+https://css-tricks.com/almanac/properties/t/transform/
