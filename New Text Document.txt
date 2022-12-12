@@ -19,3 +19,6 @@ https://www.youtube.com/watch?v=luVJ8rARtuQ&ab_channel=LabourLawAdvisor
 
 login with socil icons
 https://github.com/cuongdevjs/reactjs-social-login/blob/master/example/src/App.tsx
+
+css animation 
+https://levelup.gitconnected.com/12-best-css-animation-libraries-7d1b0848dfca
