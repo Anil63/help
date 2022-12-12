@@ -22,3 +22,5 @@ https://github.com/cuongdevjs/reactjs-social-login/blob/master/example/src/App.t
 
 css animation 
 https://levelup.gitconnected.com/12-best-css-animation-libraries-7d1b0848dfca
+
+https://codepen.io/kiritodeveloper/pen/gOKyxWa
